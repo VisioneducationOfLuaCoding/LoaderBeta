@@ -2,7 +2,7 @@
 - small update, this will allow you to load any of Atlas Hub scripts!
 - developed by arayz✅
 
-# Source:
+# Raw Source:
 
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI-Interface/CustomFIeld/main/RayField.lua'))()
 local Window = Rayfield:CreateWindow({
@@ -34,13 +34,13 @@ local Button1 = Tab:CreateButton({
       print([[
 **Features Added:**
 
-- Silent Aim (Legacy)
-- Silent Aim Working on Sniper now.
-- Set Target Feature - None/Closest
+Silent Aim (Legacy)
+Silent Aim Working on Sniper now.
+Set Target Feature - None/Closest
 
 **Support:**
-- will not support Xeno⚠️
-- will not support Cloudy⚠️
+will not support Xeno⚠️
+will not support Cloudy⚠️
 ]])
 
    end,
