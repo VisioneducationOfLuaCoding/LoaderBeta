@@ -1,5 +1,5 @@
 # Join Official Discord:
-(https://discord.gg/invite/bA3msE2Xcj)[Join]
+https://discord.gg/invite/bA3msE2Xcj
 
 # Atlas Loader V1 [BETA]
 - small update, this will allow you to load any of Atlas Hub scripts!
