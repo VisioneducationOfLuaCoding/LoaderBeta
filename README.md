@@ -1,3 +1,6 @@
+# Join Official Discord:
+(discord.gg/bA3msE2Xcj)[Join]
+
 # Atlas Loader V1 [BETA]
 - small update, this will allow you to load any of Atlas Hub scripts!
 - developed by arayz✅
