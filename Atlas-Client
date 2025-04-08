@@ -53,7 +53,7 @@ local Button2 = Tab:CreateButton({
 
 -- third button
 local Button2 = Tab:CreateButton({
-   Name = "Atlas Hub | Bladeball V1.0.0 ALPHA",
+   Name = "Atlas Hub | Bladeball V1.1.0 Beta",
    Info = "Loads the Bladeball script of Atlas Hub",
    Interact = "Load Bladeball",
    Callback = function()
