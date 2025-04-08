@@ -43,7 +43,7 @@ local Button1 = Tab:CreateButton({
 
 -- Add the second button
 local Button2 = Tab:CreateButton({
-   Name = "Atlas Hub | Arsenal V1.1.4",
+   Name = "Atlas Hub | Arsenal V2.0.0",
    Info = "Loads the Arsenal script of Atlas Hub",
    Interact = "Load Arsenal",
    Callback = function()
