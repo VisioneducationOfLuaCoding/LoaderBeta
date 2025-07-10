@@ -60,3 +60,12 @@ local Button2 = Tab:CreateButton({
       loadstring(game:HttpGet(('https://raw.githubusercontent.com/VisioneducationOfLuaCoding/BladeBall/refs/heads/main/ScriptLoader'),true))()
    end,
 })
+
+local Button2 = Tab:CreateButton({
+   Name = "Atlas Hub | Grow A Garden V1.0.0",
+   Info = "Loads the Grow a Garden script of Atlas Hub",
+   Interact = "Script-grow a garden",
+   Callback = function()
+      loadstring(game:HttpGet(('https://github.com/VisioneducationOfLuaCoding/growagarden/blob/main/AtlasHubV1.0.0/Beta'),true))()
+   end,
+})
